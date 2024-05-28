@@ -63,3 +63,5 @@
 ### ⚡ Fun fact: 
 I make *quality aesthetic* websites/web apps. I'm also willing to mentor.
 
+## 🥇 Certifications
+ - [![FreeCodeCamp Badge](https://img.shields.io/badge/-FCC-black?style=flat&logo=freecodecamp&logoColor=white)]([mailto:sotydagz@gmail.com](https://www.freecodecamp.org/Sotonye))
