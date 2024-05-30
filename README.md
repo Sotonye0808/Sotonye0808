@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m a software developer comfortable working with **React** and **Bootstrap**, while holding a preference for **Angular JS** and **Tailwind CSS**.
 - 👯 I’m looking to collaborate on *fullstack* projects of all kinds.
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, Angular React, MongoDB, Python, MySQL**, ...
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, Angular, React, MongoDB, Python, MySQL**, ...
   
 ## 📫 How to reach me:
 * Email: [![Gmail Badge](https://img.shields.io/badge/-Sotonye-red?style=flat&logo=gmail&logoColor=white)](mailto:sotydagz@gmail.com)
